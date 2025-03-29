@@ -39,5 +39,8 @@
     <ClCompile Include="B8.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tinh_tien_dien.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

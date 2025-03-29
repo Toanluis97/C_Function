@@ -135,6 +135,7 @@
     <ClCompile Include="B6.c" />
     <ClCompile Include="B7.c" />
     <ClCompile Include="B8.c" />
+    <ClCompile Include="Tinh_tien_dien.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
